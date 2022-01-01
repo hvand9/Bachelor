@@ -1,4 +1,4 @@
-# vue3-sidebar
+# Vue project
 
 ## Project setup
 ```
